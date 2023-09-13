@@ -1,0 +1,5 @@
+H1		DRV8835			Dual H-Bridge drv8835 (VCC!=VM).pdf
+RPS		EVWAE			Rotary Position Sensor - ARE0000CE3.pdf
+U1		LD1117-SOT-223	3.3V Voltage Regulator LD1117S33CTR.pdf
+S1		Simblee			This schematic might be showing the MDBT50Q
+C1,C2	0.1 µF			Capacitors as called out in the DRV8835 datasheet
